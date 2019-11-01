@@ -1,0 +1,8 @@
+cus1:
+filetype : csv
+filesize : 1000000 #in bytes
+
+
+cus2:
+filetype : json
+filesize : 2000000 #in bytes
